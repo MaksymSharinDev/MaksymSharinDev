@@ -1,4 +1,4 @@
-# Uh a Human Reader, Welcome :D
+# Hi Human Reader, Welcome
 
 <strong style="font-size: 20px; "> MAX </strong>
 <br/>A Fullstack Developer,
