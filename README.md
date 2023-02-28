@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-    <style>
+    <!-- <style>
         *  {
             font-size: 18px
         }
@@ -13,7 +13,7 @@
             border-radius: 25px;
             border: 1px solid white;
         }
-    </style>
+    </style> -->
         <td class="top-text">
             So what we have, my name is Max and
             <br/>I am a Frontend-heavy Fullstack Developer.
