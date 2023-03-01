@@ -1,8 +1,10 @@
 # Hi Human Reader, Welcome
-
 <strong style="font-size: 20px; "> MAX </strong>
 <br/>A Fullstack Developer,
 <br/>Frontend-heavy flavor.
+<br/> Proudly Jack of all Trades 
+<br/>
+<br/> ( and master of none sigh, ***#adhd*** )
 
 <table>
     <thead>
