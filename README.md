@@ -149,6 +149,14 @@
                     src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
                 <img style="margin: 1px"
                     src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+                <img style="margin: 1px"
+                    src="https://img.shields.io/badge/mongoose-red.svg?logo=mongodb&logoColor=white&style=for-the-badge" />
+            </div>
+            <div style="display: flex; flex-wrap: wrap;  gap: 6px">
+                <img style="margin: 1px"
+                    src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" />
+                <img style="margin: 1px"
+                    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
             </div>
         </td>
     </tr>
@@ -227,6 +235,8 @@
             <div style="display: flex; flex-wrap: wrap;  gap: 6px">
                 <img style="margin: 1px"
                     src="https://img.shields.io/badge/java-%23ed8b00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
+                <img style="margin: 1px"
+                    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
             </div>
             <div style="display: flex; flex-wrap: wrap;  gap: 6px">
                 <img style="margin: 1px"
@@ -277,19 +287,7 @@
                 2018
             </strong>
         </td>
-        <td>
-            <img style="margin: 1px"
-                src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        </td>
-        <td>
-            <img style="margin: 1px"
-                src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        </td>
-        <div style="display: flex; flex-wrap: wrap;  gap: 6px">
-        <td>
-        </div>
-        </td>
-        <td>
+        <td colspan="4">
             <img style="margin: 1px"
                 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         </td>
@@ -300,27 +298,13 @@
                 2017
             </strong>
         </td>
-        <td>
+        <td colspan="4">
             <div style="display: flex; flex-wrap: wrap;  gap: 6px">
                 <img style="margin: 1px"
                     src="https://img.shields.io/badge/Assembly%208086-lightgrey.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgIDxyZWN0IHg9IjQiIHk9IjQiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgcng9IjIiIHJ5PSIyIi8+CiAgICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2Ii8+CiAgICA8bGluZSB4MT0iOSIgeTE9IjEiIHgyPSI5IiB5Mj0iNCIvPgogICAgPGxpbmUgeDE9IjE1IiB5MT0iMSIgeDI9IjE1IiB5Mj0iNCIvPgogICAgPGxpbmUgeDE9IjkiIHkxPSIyMCIgeDI9IjkiIHkyPSIyMyIvPgogICAgPGxpbmUgeDE9IjE1IiB5MT0iMjAiIHgyPSIxNSIgeTI9IjIzIi8+CiAgICA8bGluZSB4MT0iMjAiIHkxPSI5IiB4Mj0iMjMiIHkyPSI5Ii8+CiAgICA8bGluZSB4MT0iMjAiIHkxPSIxNCIgeDI9IjIzIiB5Mj0iMTQiLz4KICAgIDxsaW5lIHgxPSIxIiB5MT0iOSIgeDI9IjQiIHkyPSI5Ii8+CiAgICA8bGluZSB4MT0iMSIgeTE9IjE0IiB4Mj0iNCIgeTI9IjE0Ii8+Cjwvc3ZnPgo=&style=for-the-badge&logoColor=black">
                 <img style="margin: 1px"
                     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
             </div>
-        </td>
-        <td>
-            <div style="display: flex; flex-wrap: wrap;  gap: 6px">
-                <img style="margin: 1px"
-                    src="https://img.shields.io/badge/Assembly%208086-lightgrey.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgIDxyZWN0IHg9IjQiIHk9IjQiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgcng9IjIiIHJ5PSIyIi8+CiAgICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2Ii8+CiAgICA8bGluZSB4MT0iOSIgeTE9IjEiIHgyPSI5IiB5Mj0iNCIvPgogICAgPGxpbmUgeDE9IjE1IiB5MT0iMSIgeDI9IjE1IiB5Mj0iNCIvPgogICAgPGxpbmUgeDE9IjkiIHkxPSIyMCIgeDI9IjkiIHkyPSIyMyIvPgogICAgPGxpbmUgeDE9IjE1IiB5MT0iMjAiIHgyPSIxNSIgeTI9IjIzIi8+CiAgICA8bGluZSB4MT0iMjAiIHkxPSI5IiB4Mj0iMjMiIHkyPSI5Ii8+CiAgICA8bGluZSB4MT0iMjAiIHkxPSIxNCIgeDI9IjIzIiB5Mj0iMTQiLz4KICAgIDxsaW5lIHgxPSIxIiB5MT0iOSIgeDI9IjQiIHkyPSI5Ii8+CiAgICA8bGluZSB4MT0iMSIgeTE9IjE0IiB4Mj0iNCIgeTI9IjE0Ii8+Cjwvc3ZnPgo=&style=for-the-badge&logoColor=black">
-                <img style="margin: 1px"
-                    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-            </div>
-        </td>
-        <td>
-        </td>
-        <td>
-            <img style="margin: 1px"
-                src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
         </td>
     </tr>
 </table>
